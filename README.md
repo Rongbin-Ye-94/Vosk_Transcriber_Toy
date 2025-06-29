@@ -3,6 +3,10 @@
 A comprehensive audio transcription system built on top of Vosk, featuring multiple transcription approaches and advanced audio processing capabilities. This is a practice project that built by Rongbin Ye and Jiaqi Chen for the practice and comparison perspective. The infrastructure is build upon Vosk. 
 https://github.com/alphacep/vosk-api
 
+This project was originally started as authors were interviewing and intends to transcribe the practices and mock interviews. To get better training results, we intend to transcribe the recordings that we have. As we have a lot of information that is very private and protected, we thought of utilizing the vosk and related framework to transcribe the information for tracking and getting feedback. In the progress, we found out that the outcome is not as good as we expected with limited treated data, hence we added more data treatment. Afterward, we chated and try to further improve the transcribe outcome with some additional control. 
+
+This is a prototype model for further improvement. 
+
 
 ## Features
 
