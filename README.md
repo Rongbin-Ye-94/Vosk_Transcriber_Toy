@@ -1,6 +1,8 @@
 # Vosk-Based Audio Transcription System
 
-A comprehensive audio transcription system built on top of Vosk, featuring multiple transcription approaches and advanced audio processing capabilities.
+A comprehensive audio transcription system built on top of Vosk, featuring multiple transcription approaches and advanced audio processing capabilities. This is a practice project that built by Rongbin Ye and Jiaqi Chen for the practice and comparison perspective. The infrastructure is build upon Vosk. 
+https://github.com/alphacep/vosk-api
+
 
 ## Features
 
@@ -173,4 +175,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For issues and questions:
 1. Check the troubleshooting section
 2. Review the accuracy improvement guide
-3. Open an issue on GitHub 
+3. Open an issue on GitHub
+
+   
+## Contact
+Rongbin Ye - rongbin.ye.94@gmail.com 
+Jiaqi Chen - ronanchen0901@gmail.com
+
+Project Link: [https://github.com/Rongbin-Ye-94/Arrow_on_Knee](https://github.com/Rongbin-Ye-94/Vosk_Transcriber_Toy)
